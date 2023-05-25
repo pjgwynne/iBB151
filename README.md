@@ -14,3 +14,5 @@ cytoscape is found here: https://cytoscape.org/
 RAVEN is found here: https://github.com/SysBioChalmers/RAVEN
 
 COBRA is found here: http://opencobra.github.io/
+
+(Note that both RAVEN and COBRA are to be opened in a Matlab environment)
