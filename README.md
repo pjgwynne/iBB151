@@ -16,3 +16,5 @@ RAVEN is found here: https://github.com/SysBioChalmers/RAVEN
 COBRA is found here: http://opencobra.github.io/
 
 (Note that both RAVEN and COBRA are to be opened in a Matlab environment)
+
+A detailed methods document describing the generation and analysis of iBB151 is found in methods.doc
