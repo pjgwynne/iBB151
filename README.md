@@ -3,7 +3,7 @@ Metabolic model of B. burgdorferi B31
 
 iBB151.xml is in SBML format (version 3.1). COBRA doesn't seem to like the excel document so I use the .xml for COBRA analysis.
 
-iBB151.xlsx is in excel format. I use the excel document for analysis in RAVEN.
+iBB151.xlsx is in excel format. I use this for RAVEN, but the .xml should also work.
 
 Both of these can be analysed in Matlab using either COBRA or RAVEN. The excel file is much easier to browse.
 
